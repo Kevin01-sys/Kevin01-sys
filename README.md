@@ -1,7 +1,5 @@
 ### Hi there! I'm Kevin 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -24,3 +22,5 @@ Here are some ideas to get you started:
 
 ### repository of API used to obtain statistics:
 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md
+### icons for the page:
+<a href="https://icons8.com/icon/45065/reducción">Reducción icon by Icons8</a>
