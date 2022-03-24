@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Kevin01-sys/Kevin01-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin01-sys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin01-sys&show_icons=true&theme=dark)
+
+### repository of API used to obtain statistics:
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md
