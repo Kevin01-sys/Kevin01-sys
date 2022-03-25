@@ -1,10 +1,12 @@
 ### Hi there! I'm Kevin.
 Software developer who studied at Duoc UC, I love to develop software 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🐳 I’m currently working on: 
+    - Create a presentation portfolio.
+    - CRUD in a REST API with mysql or MongoDB executing HTTP requests (GET, POST, DELETE, PUT) from the Postman application. 
+    - Dockerize all the projects done so far, because I love using Docker development environments since I discovered the tool.
+- 🌱 I’m currently learning English to be able to read and write in a natural way. My native language is Spanish.
+- 🐾 I’m looking to collaborate on all types of software development projects
 - 💬 Ask me about any of my GitHub projects, it's always great to work with more people.
 - 📫 How to reach me: my email is kevinchocano@gmail.com
 - 👻 Follow me: 
