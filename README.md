@@ -1,4 +1,5 @@
-### Hi there! I'm Kevin 👋
+### Hi there! I'm Kevin.
+Software developer who studied at Duoc UC, I love to develop software 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
