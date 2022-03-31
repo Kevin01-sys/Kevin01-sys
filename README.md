@@ -11,7 +11,7 @@ A software developer who studied at Duoc UC, I love to create programs, web page
 - 💬 Ask me about any of my GitHub projects, it's always great to work with more people.
 - 📫 How to reach me: my email is kevinchocano@gmail.com
 - 👻 Follow me: 
-    - LinkedIn: https://www.linkedin.com/in/kevin-chocano-pulgar-5456a4234/
+    - LinkedIn: https://www.linkedin.com/in/kevin-chocano-pulgar/
     - Instagram: https://www.instagram.com/kevinuwuuu/
 
 
