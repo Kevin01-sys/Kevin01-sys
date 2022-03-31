@@ -1,17 +1,17 @@
 ### Hi there! I'm Kevin.
-Software developer who studied at Duoc UC, I love to develop software 👋
+A software developer who studied at Duoc UC, I love to create programs, web pages, etc.👋
 
 - 🐳 I’m currently working on: 
     - Create a presentation portfolio.
     - CRUD in a REST API with mysql or MongoDB executing HTTP requests (GET, POST, DELETE, PUT) from the Postman application. 
     - Creating a web page with tools such as HTML, CSS, JS, QUERY, PHP.
-    - Dockerize all the projects done so far, because I love using Docker development environments since I discovered the tool.
+    - Move all the projects done so far to Docker, because I love using Docker development environments since I discovered the tool.
 - 🌱 I’m currently learning English to be able to read and write in a natural way. My native language is Spanish.
 - 🐾 I’m looking to collaborate on all types of software development projects
 - 💬 Ask me about any of my GitHub projects, it's always great to work with more people.
 - 📫 How to reach me: my email is kevinchocano@gmail.com
 - 👻 Follow me: 
-    - linkedin: https://www.linkedin.com/in/kevin-chocano-pulgar-5456a4234/
+    - LinkedIn: https://www.linkedin.com/in/kevin-chocano-pulgar-5456a4234/
     - Instagram: https://www.instagram.com/kevinuwuuu/
 
 
